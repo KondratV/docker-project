@@ -1,0 +1,12 @@
+# Данные и логи
+data/
+*.csv
+
+# Python мусор
+__pycache__/
+*.pyc
+.venv/
+
+# Windows мусор
+Thumbs.db
+desktop.ini
